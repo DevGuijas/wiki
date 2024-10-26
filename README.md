@@ -1,8 +1,6 @@
 
 # Site estático python.org.br
 
-[![Build Status](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)](https://github.com/pythonbrasil/wiki/actions/workflows/build.yml)
-
 Site Live: [http://python.org.br/](http://python.org.br/)
 
 Repositório: [https://github.com/pythonbrasil/wiki](https://github.com/pythonbrasil/wiki)
